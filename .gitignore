@@ -1,0 +1,10 @@
+.DS_Store
+evidence/
+scripts/read_subtitles
+*.zip
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+*.jpg
+*.png

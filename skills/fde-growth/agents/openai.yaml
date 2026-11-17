@@ -1,0 +1,4 @@
+interface:
+  display_name: "FDE 企业增长"
+  short_description: "为企业制定 SEO、GEO 与 UGC 增长实验，连接可信内容、有效询盘与成交验证"
+  default_prompt: "使用 $fde-growth 为这家企业设计可验证的 SEO、GEO 和 UGC 增长试点。"
