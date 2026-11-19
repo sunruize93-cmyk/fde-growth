@@ -9,6 +9,7 @@
 - [完整调研报告](调研报告.md)：主流打法、代表工具、客户适配及 30 天试点。
 - [Skill 入口](skills/fde-growth/SKILL.md)：诊断、实验、内容和交付流程。
 - [12 个 GEO 实施配方](skills/fde-growth/references/geo-recipes.md)：技术底座、问题库、证据内容、分发与测量。
+- [韩国皮肤科专项](skills/fde-growth/references/korea-dermatology.md) · [豆包与 DeepSeek 首轮试题](skills/fde-growth/assets/korea-dermatology/prompts.csv) · [观测记录表](skills/fde-growth/assets/korea-dermatology/observations.csv)
 - [20 条视频证据台账](skills/fde-growth/references/creator-distillation.md)：原链接、时间定位、采用判断和证据边界。
 - [测量约定](skills/fde-growth/references/measurement.md)、[26 项来源](skills/fde-growth/references/sources.md)、[交付与验证](交付与验证.md)。
 
